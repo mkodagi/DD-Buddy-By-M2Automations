@@ -46,6 +46,6 @@ Version 1.5:
 Version 1.6:
 * Enable OTA (Over the Air) functionality.
 * Enhance the WiFi Captive Portal webpage with scanning available 2.4GHz access points (SSID) to choose while wifi setup.
-* Enable Github Software Update Function.  This will 
+* Enable Github Software Update Function using OTA option.
 
 
