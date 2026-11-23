@@ -48,4 +48,30 @@ Version 1.6:
 * Enhance the WiFi Captive Portal webpage with scanning available 2.4GHz access points (SSID) to choose while wifi setup.
 * Enable Github Software Update Function using OTA option.
 
+Version 1.6.1:
+* Add Reset Wi-Fi option to the settings Menu.
+* Add About option to the Settings Menu.
+  - This will display Product name, OS Version, WiFi Name, Signal Quality/Strength, Local IP Address.
+
+Version 1.6.2:
+* OLED: Menu Option to Dynamic select between SH1106 and SSD1306 screen types
+* an Introduction Splash screen with Logo 'M' + Matomation text
+
+Version 1.7.0:
+* Adding Snake Game of Nokia basic phone
+
+Version 1.7.1:
+* Adding 20 more faces with special Clock face
+
+Version 1.8.0
+* Adding Music functionality
+  - Western Songs
+  - Carnatic Songs
+  - Tone
+  - Tempo
+
+Version 1.9.0
+* Adding HTTP Settings Webpage to control the device from Smartphone/Laptop
+String dynamicUrl = "https://api.weatherapi.com/v1/current.json?key=" + String(WEATHER_API_KEY) + "&q=" + encodedCity + "&aqi=no";
+* change Logo to M2 and text/company name to 'M2-Automations'
 
