@@ -9,5 +9,6 @@ Features:
 5. M2 Company Splash/Branding
 6. GitHub Cloud OTA (DD-Buddy-By-M2Automations)
 7. Battery Saving features
-       a. Auto Dim screen display after 1 Minute Idle time
-       b. 
+       a. Auto Dim screen display after 1 Minute Idle time.
+       b. Auto Off Display after 30 Minutes Idle time.
+8. Display of Battery Status on Clock & About Screen.
